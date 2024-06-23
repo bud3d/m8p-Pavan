@@ -21,7 +21,7 @@ This repository contains the files for the BTT Manta M8P Pavan stepper motor fan
 ## Printing
 - Print using standard Voron settings (4 walls, 5 top & bottom laters, 40% infill).
 - 5.10 gm of material usage.
-- Check ![photo](./Images/m8p_Pavan_v1.0_Slicer.png) for print orientation.
+- ![photo](./Images/m8p_Pavan_v1.0_Slicer.png)*print orientation.
 
 ## Assembly
 1. Insert the M3 4x5mm heat sets into the designated holes on the printed parts.
