@@ -6,7 +6,9 @@ This repository contains the files for the BTT Manta M8P Pavan stepper motor fan
 
 Features:
 Designed to fit over the Manta M8P stepper motor drivers.
+
 Cooling Fans: Two 5010 fans for the stepper motor drivers and one 4010 fan for the CB/CM4.
+
 *Requires Manta M8P Voron mount
 
 Contents:
@@ -30,5 +32,4 @@ BOM:
 - 9x M3 4x5mm, heatset 
 - 12x M3x16 SCBH Screws
 - 2x 5010 fans
-- 1x 4010 fan
 - 1x 4010 fan
