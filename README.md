@@ -10,12 +10,11 @@ Cooling Fans: Two 5010 fans for the stepper motor drivers and one 4010 fan for t
 *Requires Manta M8P Voron mount
 
 Contents:
-
 -CAD - Contains the STL files for 3D printing.
- STEP and f3z included for modifications
+    STEP and f3z included for modifications
 -Images - Photos of the mount.
 
-Printing details
+Printing details:
 - Print using standard Voron PIF settings.
 - 5.10 gm of material
 - Check images/M8P Pavan v1.0_Slicer for print orientation
@@ -32,7 +31,4 @@ BOM:
 - 12x M3x16 SCBH Screws
 - 2x 5010 fans
 - 1x 4010 fan
-
-Contact
-
-For any questions or feedback, please open an issue on GitHub.
+- 1x 4010 fan
