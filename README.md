@@ -33,7 +33,7 @@ This repository contains the files for the BTT Manta M8P Pavan stepper motor fan
 3. Mount the 4010 fan for the CB1 or CM4 using M3x16 screws.
    - The fan can be mounted underneath when using CM4 (untested with CB1).
 4. Secure the assembled mount to the Manta DIN mount.
-5. Refer (./KLipper Config/fans.cfg) for sample config to setup the fans!
+5. Refer ![link](./Klipper Config/fans.cfg) for sample config to setup the fans!
 
 ## BOM
 - 9x M3 4x5mm heat sets.
